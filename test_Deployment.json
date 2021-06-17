@@ -1,0 +1,8 @@
+{
+  "test": {},
+  "git": {
+    "gitRepoUrl": "https://github.com/aksathar/test.git",
+    "gitAppName": "test",
+    "gitBranch": "master"
+  }
+}
